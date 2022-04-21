@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/redis-manager",
+    "name": "snowsoft/redis-manager",
     "description": "Redis manager for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "redis", "manager"],
-    "homepage": "https://github.com/laravel-admin-extensions/redis-manager",
+    "homepage": "https://github.com/snowsoft/redis-manager",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.5",
+        "snowsoft/laravel-admin": "~1.5",
         "predis/predis": "~1.0"
     },
     "require-dev": {
